@@ -178,7 +178,11 @@
   <profiles>
     <profile>
            <id>mades</id>
-                  </profile>
+           <activation>
+                  <activeByDefault>true</activeByDefault></activation>
+             <properties><sonar.host.url>http://localhost:9000</sonar.host.url> 
+                    </properties>
+                                    </profile>
     <profile>
       <id>tomcat90</id>
       <properties>
