@@ -177,6 +177,9 @@
 
   <profiles>
     <profile>
+           <id>mades<id>
+                  <profile>
+    <profile>
       <id>tomcat90</id>
       <properties>
         <tomcat.major-version>9</tomcat.major-version>
