@@ -205,7 +205,7 @@
         <tomcat.major-version>8</tomcat.major-version>
         <tomcat.version>8.0.41</tomcat.version>
       </properties>
-    </profile>
+         </profile>
     <profile>
       <id>tomcat70</id>
       <properties>
